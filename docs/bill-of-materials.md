@@ -1,5 +1,7 @@
 # DirtyBird BOM
 
+**Try the configurator at https://agentk.github.io/dirtybird/**
+
 Exact fastener counts may differ slightly based on your configuration.
 
 Purchasing spares is highly recommended.
@@ -28,15 +30,15 @@ _BHCS button-head cap screw, SHCS socket-head cap screw_
 
 |                 Item                  | Quantity |               Notes               |
 | :-----------------------------------: | :------: | :-------------------------------: |
-| Delta 4510 Blower Fan (BFB04512HHA-C) |    2     |                                   |
+| Delta 4510 Blower Fan (BFB04512HHA-C) |    2     |   Refer to build instructions regarding differences in fan shape   |
 |        3010 Hotend Cooling Fan        |    1     | Airflow must be higher than 4 CFM |
 
 ### Other
 
 |        Item         | Quantity |                             Notes                              |
 | :-----------------: | :------: | :------------------------------------------------------------: |
-|      Extruder       |    1     | Sherpa Mini, Sherpa Micro and LGX lite are currently supported |
-|       Hotend        |    1     | Dragon & NF Crazy currently supported. Rapido support planned  |
+|      Extruder       |    1     | Check main page for an up to date list of supported extruders |
+|       Hotend        |    1     | Check main page for an up to date list of supported hotends  |
 | Bed Levelling Probe |    1     |     Native support for Klicky. Euclid support in UserMod.      |
 |     6x3 Magnet      |    3     |                      For Klicky mounting                       |
 | 4mm OD, 2mm ID PTFE |   10cm   |              PTFE Liner between Extruder & Hotend              |
@@ -46,6 +48,6 @@ _BHCS button-head cap screw, SHCS socket-head cap screw_
 |                     Item                      | Quantity |                                                 Notes                                                 |
 | :-------------------------------------------: | :------: | :---------------------------------------------------------------------------------------------------: |
 |               Roadkill Longboi                |    1     | Another board is recommended for terminating the ribbon cable, see Roadkill documentation for details |
-|                Roadkill Square                |    1     |                                          Support in UserMod.                                          |
-| Neopixel 5050 LEDs (on a 12.5mm diameter PCB) |    2     |                                                  TBC                                                  |
+|                Roadkill Square                |    1     |                 Limited support for mounting options                                                  |
+| Neopixel 5050 LEDs (on a 12.5mm diameter PCB) |    2     |                                   Currently usermod only                                              |
 |             Omron D2F Microswitch             |    1     |                                             For X endstop                                             |
