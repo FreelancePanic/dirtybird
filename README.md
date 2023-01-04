@@ -50,6 +50,8 @@ And the following hotends:
 - TAP support (currently experimental)
 - 9 mm belts (AKA Fatso, currently experimental)
 
+Note: for any features marked experimental, please visit the MakerBogans Discord
+
 ### Known issues/to do list
 
 - Potentially insufficient clearance between the Dragon core and the heater block of the Dragon hotend; as a result, the core may melt or otherwise cook, especially when using a silicone sock
