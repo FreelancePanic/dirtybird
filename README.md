@@ -50,7 +50,7 @@ And the following hotends:
 - TAP support (currently experimental)
 - 9 mm belts (AKA Fatso, currently experimental)
 
-Note: for any features marked experimental, please visit the MakerBogans Discord
+Note: for any features marked experimental, please visit the MakerBogans Discord for further details
 
 ### Known issues/to do list
 
