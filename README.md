@@ -14,17 +14,26 @@ Like its predecessor, DirtyBird is designed to:
 - Remain compatible with stock Voron (and Ramalama) idlers
 - Support Roadkill-based chainless toolhead boards
 
-Currently, DirtyBird supports the following extruders (and more via usermods):
+Currently, DirtyBird supports the following extruders:
 
-- LGX mini
-- Sherpa mini
-- Sherpa micro
+| Extruder | Status |
+| ------- | ------- |
+| LGX mini | Full support |
+| Sherpa mini | Full support |
+| Sherpa micro | Full support |
+| CNC Vz Hextrudort Low | Experimental (fits stock LGX plate) |
+| Orbiter | Usermod |
 
 And the following hotends:
 
-- Dragon
-- NF Crazy
-- Rapido (HF only, UHF not supported yet)
+| Hotend | Status |
+| ------- | ------- |
+| Dragon (SF/HF/UHF) | Full support |
+| NF Crazy | Full support |
+| Rapido HF | Full support |
+| Rapido UHF | Not currently supported |
+| Revo | Usermod |
+| Bambu | Experimental |
 
 ### BOM
 
@@ -37,14 +46,15 @@ And the following hotends:
 ### Planned features
 
 - MGN9 support (currently, the carriage fits MGN12 rails only)
-- Filament sensor support (for Enraged Rabbit Carrot Feeder or other multi-material operation, under development)
 - Integrated LED lighting (using Neopixels, currently experimental)
 - Rapido hotend support (currently experimental)
-- Cable chain mount (?)
+- TAP support (currently experimental)
+- 9 mm belts (AKA Fatso, currently experimental)
 
 ### Known issues/to do list
 
 - Potentially insufficient clearance between the Dragon core and the heater block of the Dragon hotend; as a result, the core may melt or otherwise cook, especially when using a silicone sock
   - Improvements have been made, but we are gathering feedback from real world usage.
+  - Current data suggest this is no longer an issue, but please make a report if you see any heat-related damage to the core
 - Rename files for version control/clarity (i.e. similar to Annex)
 - Printed L/R marks for the fan ducts
