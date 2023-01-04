@@ -12,7 +12,7 @@ I've got this on my V2.4 350 mm, and it works well!
 
 # Incompatibilities
 
-None (TBC); see note below regarding adaptor plates
+LGX lite (and possibly other extruders) as this is designed for the Sherpa Mini; see note below regarding adaptor plates
 
 # Update notes
 
