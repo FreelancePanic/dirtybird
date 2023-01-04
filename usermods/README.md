@@ -1,5 +1,7 @@
 Contains usermods for the DirtyBird toolhead.
 
+Note: For mod authors with multiple projects, the READMEs can be found within each project folder (rather than the root folder for each author)
+
 | User | Mod | Description |
 | ----------- | ----------- | ---------- |
 | DMan | Cable chain mount | Allows a cable chain to be attached to the carriage |
