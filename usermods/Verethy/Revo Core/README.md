@@ -4,7 +4,7 @@
 
 Adds a new core to allow Revo hotends to be mounted to the DB
 
-![Revo core](RevoCore.png)
+![Revo core](RevoCore1.png)
 
 # Status
 
