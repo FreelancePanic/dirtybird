@@ -9,4 +9,4 @@ Note: For mod authors with multiple projects, the READMEs can be found within ea
 | Sushei | DB Orbiter V2 | Mounting plate for Orbiter extruders |
 | Sushei | Sushei's Version | Minor DB overhaul with direct Sherpa Mini mounting and LED support |
 | Verethy | Cable Holder for Sheath | Alternate ribbon cable holder to accommodate cable sheathes |
-| Verethy | Revo Core | Fits a Revo hotend |
+| Verethy | Revo Core | Revised core to fit a Revo hotend |
