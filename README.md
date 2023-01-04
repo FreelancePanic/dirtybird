@@ -46,7 +46,7 @@ And the following hotends:
 ### Planned features
 
 - MGN9 support (currently, the carriage fits MGN12 rails only)
-- Integrated LED lighting (using Neopixels, currently experimental)
+- Integrated LED lighting (using Neopixels, currently implemented via a usermod but a custom PCB is being developed)
 - Rapido hotend support (currently experimental)
 - TAP support (currently experimental)
 - 9 mm belts (AKA Fatso, currently experimental)
