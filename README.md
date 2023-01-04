@@ -37,6 +37,8 @@ And the following hotends:
 
 ### BOM
 
+**Try the configurator available here https://agentk.github.io/dirtybird/**
+
 [See BOM](./docs//bill-of-materials.md)
 
 ### Build Instructions
