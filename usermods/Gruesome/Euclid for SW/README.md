@@ -4,7 +4,7 @@
 
 Replaces the carriage for Switchwire support (plus Euclid mounting); adds Euclid dock parts (including servo mounts)
 
-![DB Euclid](Euclid%20for%20SW/DBEuclidSW.png)
+![DB Euclid](DBEuclidSW.png)
 
 # Status
 
