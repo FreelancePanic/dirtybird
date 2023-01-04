@@ -7,6 +7,6 @@ Note: For mod authors with multiple projects, the READMEs can be found within ea
 | DMan | Cable chain mount | Allows a cable chain to be attached to the carriage |
 | Gruesome | Euclid for SW | Adds Switchwire support (Euclid probe only) |
 | Sushei | DB Orbiter V2 | Mounting plate for Orbiter extruders |
-| Sushei | Sushei's Version | Minor DB overhaul with direct Sherpa Mini mounting and LED support |
-| Verethy | Cable Holder for Sheath | Alternate ribbon cable holder to accommodate cable sheathes |
+| Sushei | Sushei's Version | DB overhaul with direct Sherpa Mini mounting and LED support |
+| Verethy | Cable Holder for Sheath | Alternate ribbon cable holder to accommodate cable sheaths |
 | Verethy | Revo Core | Revised core to fit a Revo hotend |
